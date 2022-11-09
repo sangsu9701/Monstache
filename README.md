@@ -1,6 +1,6 @@
 # Monstache
 MongoDB-Monstache-Elasticsearch data sync project
-![image](https://user-images.githubusercontent.com/55523634/200699022-46815cf1-943e-406b-a13f-d6c77e4901ff.png)
+![image](https://user-images.githubusercontent.com/55523634/200704415-aefa8134-91e0-4a1e-a7f6-58c91fa6ea5d.png)
 ![image](https://user-images.githubusercontent.com/55523634/200699049-17d3188b-586b-4ee5-92dd-6e14c2b1f80c.png)
 ![image](https://user-images.githubusercontent.com/55523634/200699063-c5228b83-a77b-4301-8803-5e1feabbbee7.png)
 ![image](https://user-images.githubusercontent.com/55523634/200699084-e28952aa-7fc0-4751-a573-253cdf7ea512.png)
