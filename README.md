@@ -1,2 +1,16 @@
 # Monstache
 MongoDB-Monstache-Elasticsearch data sync project
+![image](https://user-images.githubusercontent.com/55523634/200699022-46815cf1-943e-406b-a13f-d6c77e4901ff.png)
+![image](https://user-images.githubusercontent.com/55523634/200699049-17d3188b-586b-4ee5-92dd-6e14c2b1f80c.png)
+![image](https://user-images.githubusercontent.com/55523634/200699063-c5228b83-a77b-4301-8803-5e1feabbbee7.png)
+![image](https://user-images.githubusercontent.com/55523634/200699084-e28952aa-7fc0-4751-a573-253cdf7ea512.png)
+![image](https://user-images.githubusercontent.com/55523634/200699093-9d41853f-07fc-48fb-aa04-29f15340b4b4.png)
+![image](https://user-images.githubusercontent.com/55523634/200699101-89988da9-3ba3-4f8d-b8fa-9d28f5f402d4.png)
+![image](https://user-images.githubusercontent.com/55523634/200703811-55428224-f21c-4ec9-9e17-586b43e2e5d5.png)
+![image](https://user-images.githubusercontent.com/55523634/200703828-21fcfcf3-539e-4821-9303-b06c65ca402f.png)
+![image](https://user-images.githubusercontent.com/55523634/200703840-fb293fe1-b6fc-4941-9eaf-aee7e28d39e7.png)
+![image](https://user-images.githubusercontent.com/55523634/200703856-2d958e9a-4315-47e9-9079-d71b737e33b2.png)
+![image](https://user-images.githubusercontent.com/55523634/200703871-43031c73-04b3-458f-b455-3fa5cf825dda.png)
+![image](https://user-images.githubusercontent.com/55523634/200704217-cb7c7251-4582-4bde-9ff8-03f03cc4ee86.png)
+![image](https://user-images.githubusercontent.com/55523634/200704235-fd0ea710-dd7a-49f9-b871-22997c7a4ad3.png)
+![image](https://user-images.githubusercontent.com/55523634/200704252-aa92bc24-fffa-4d0d-b8f2-3e6db99eb7c7.png)
